@@ -22,6 +22,7 @@ cars
 **Ouput:**
 
 ![image](https://github.com/user-attachments/assets/ed248319-09b2-47ca-a279-1b57c0b89473)
+
 ![image](https://github.com/user-attachments/assets/24b0aefc-da9f-40e5-be91-5f6c74a4a637)
 
 ```python
