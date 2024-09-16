@@ -59,15 +59,15 @@ cars.tail()
 
 ```python
 
-#display the first five odd rows of cars
-odd = cars.iloc[[1,3,5,7,9]]
+#outputs the first five rows of the data frame with odd numbered columns
+odd = cars.iloc[:5,::2]
 odd
 
 ```
 
 **Output:**
 
-![image](https://github.com/user-attachments/assets/f20093c4-987d-48e0-a05a-e57b9ce71687)
+![image](https://github.com/user-attachments/assets/bd20c80a-3876-4d93-a5f2-af7749979782)
 
 **Function:**
 
