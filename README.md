@@ -19,11 +19,13 @@ cars
 
 ```
 
-**Ouput:**
+**Output:**
 
 ![image](https://github.com/user-attachments/assets/ed248319-09b2-47ca-a279-1b57c0b89473)
 
 ![image](https://github.com/user-attachments/assets/24b0aefc-da9f-40e5-be91-5f6c74a4a637)
+
+**Function:**
 
 ```python
 
@@ -31,9 +33,12 @@ cars
 cars.head()
 
 ```
+
 **Output:**
 
 ![image](https://github.com/user-attachments/assets/1abec3da-e67a-42bf-a11d-d0dbcd7b85ca)
+
+**Function:**
 
 ```python
 
@@ -41,6 +46,7 @@ cars.head()
 cars.tail()
 
 ```
+
 **Output:**
 
 ![image](https://github.com/user-attachments/assets/8f219257-a6d5-45b2-9ea6-1c012cc0d31a)
@@ -58,10 +64,10 @@ odd = cars.iloc[[1,3,5,7,9]]
 odd
 
 ```
+
 **Output:**
 
 ![image](https://github.com/user-attachments/assets/f20093c4-987d-48e0-a05a-e57b9ce71687)
-
 
 **Function:**
 
@@ -77,6 +83,7 @@ cars.loc[[1]]
 ![image](https://github.com/user-attachments/assets/effa9fc6-ecdb-4b17-9282-b70d4b80c71e)
 
 **Function:**
+
 ```python
 
 #output the value for "cyl" of car model 'Camaro Z28'
@@ -89,6 +96,7 @@ cars.loc[[23],['cyl']]
 ![image](https://github.com/user-attachments/assets/2844e616-5786-4221-9f78-b909eb6fb215)
 
 **Function:**
+
 ```python
 
 #output the values for "cyl" and "gear" for the following car models
@@ -99,9 +107,4 @@ cars.loc[[1,18,28],['cyl','gear']]
 **Output:**
 
 ![image](https://github.com/user-attachments/assets/fff50e04-3503-45e3-93b1-9d234ed48883)
-
-
-
-
-
 
