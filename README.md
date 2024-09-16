@@ -59,6 +59,7 @@ odd
 
 ```
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/f20093c4-987d-48e0-a05a-e57b9ce71687)
 
 
@@ -72,6 +73,7 @@ cars.loc[[1]]
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/effa9fc6-ecdb-4b17-9282-b70d4b80c71e)
 
 **Function:**
